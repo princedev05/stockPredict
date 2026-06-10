@@ -29,5 +29,5 @@ A Python-based deep reinforcement learning (RL) framework for automated stock tr
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/Astolsko/Smart-Reinforcement-Learning-Agent-for-Stock-Trading-.git
+   git clone https://github.com/princedev05/stockPredict/Smart-Reinforcement-Learning-Agent-for-Stock-Trading-.git
    cd Smart-Reinforcement-Learning-Agent-for-Stock-Trading-
